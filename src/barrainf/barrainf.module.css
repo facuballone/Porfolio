@@ -1,0 +1,19 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: center;
+    background-color: linear-gradient(90deg,rgb(0, 0, 0),rgb(15, 1, 24)); /* Color de fondo opcional */
+    padding: 10px 0; /* Espaciado interno opcional */
+  }
+  
+  .logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
