@@ -17,3 +17,12 @@
     justify-content: center;
     align-items: center;
   }
+
+  @media (max-width: 900px) {
+    .contenedor {
+      display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+  }

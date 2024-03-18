@@ -12,22 +12,16 @@ const Inicio = () => {
                 <div></div>
                 <div></div>
                 </div> 
+                
             </article>
-        
-
             <div className={styles.botones}>
-
                 <h2>Facundo Ballone</h2>
                 <div>
                    <a href='https://drive.google.com/file/d/1riANPYRjQm2-HecT_FDQg3K2SccEemMA/view?usp=sharing'>CV</a> 
                 </div>
-
             </div>
-
-
             <Animacion/>
-           
-
+        
         </section>
     )
 }
